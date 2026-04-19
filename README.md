@@ -1,7 +1,7 @@
 <h1 align="center">Ndandise Xalisa</h1>
 
 <p align="center">
-Cloud Engineer | AWS
+Cloud Engineer | DevOps
 </p>
 
 <p align="center">
