@@ -1,66 +1,86 @@
 <h1 align="center">Ndandise Xalisa</h1>
 
 <p align="center">
-Cloud Engineer | DevOps
+Cloud Engineer | DevOps Engineer | Kubernetes | Docker | Terraform | AWS
 </p>
 
 <p align="center">
-Security first. Everything else follows.
+Real infrastructure. Real deployments. Security first.
 </p>
 
 ---
 
 ### About
 
-I design and deploy cloud infrastructure on AWS with a focus on security, scalability, and reliability.
+I build and deploy cloud infrastructure with hands-on experience across AWS, Docker, Kubernetes, Linux, automation, and modern deployment workflows.
 
-My work is built on real deployments, not theory. Every project reflects hands-on implementation, from infrastructure setup to automation and monitoring.
+My work is based on real-world implementation, not theory. I design secure environments, deploy applications, manage cloud resources, troubleshoot production issues, and build scalable systems from code to live environments.
+
+Focused on cloud engineering, DevOps, automation, and production-ready infrastructure.
 
 ---
 
 ### Core Stack
 
 - AWS (EC2, S3, IAM, VPC, CloudWatch)
-- Linux (Ubuntu)
 - Docker
-- MySQL
+- Kubernetes
+- Linux (Ubuntu)
 - GitHub Actions (CI/CD)
-- Networking
+- MySQL
 - Nginx
 - AWS CLI
+- Networking
+- Git & GitHub
 - Windows PowerShell
 - HTML, CSS, JavaScript
+- Node.js / Express.js
 
 ---
 
 ### Projects
 
-- AWS S3 Static Website Hosting  
-- EC2 Web Server Deployment (Nginx)  
-- IAM Security Implementation  
-- VPC Network Lab  
-- CloudWatch Monitoring & Alerts  
-- AWS CLI Automation  
+- AWS S3 Static Website Hosting
+- EC2 Ubuntu Web Server Deployment
+- IAM Security & Access Control
+- VPC Networking Lab
+- CloudWatch Monitoring & Alerts
+- AWS CLI Automation Project
+- Dockerized Cloud Wallet Application
+- Kubernetes Cloud Wallet Deployment
 
 ---
 
 ### Current Focus
 
-- Containerization with Docker  
-- CI/CD pipelines and automation  
-- Cloud security and system design  
-- Building production-ready cloud applications  
+- CI/CD pipelines and deployment automation
+- Terraform & Infrastructure as Code
+- Kubernetes production workloads
+- Cloud security hardening
+- Scalable backend systems
+- High-availability cloud architecture
+
+---
+
+### Strengths
+
+- Real hands-on cloud deployments
+- Fast troubleshooting under pressure
+- Infrastructure setup from scratch
+- Secure access management
+- Containerized application delivery
+- Continuous learning with execution
 
 ---
 
 ### Contact
 
-- Phone: +27 (65) 711-9504  
-- Email: ndandisepearlson@gmail.com  
-- Location: Johannesburg, South Africa  
+- Phone: +27 (65) 711-9504
+- Email: ndandisepearlson@gmail.com
+- Location: Johannesburg, South Africa
 
 ---
 
 <p align="center">
-Real infrastructure. Real deployments. No shortcuts.
+Built through execution. Ready for production.
 </p>
