@@ -1,7 +1,7 @@
 <h1 align="center">Ndandise Xalisa</h1>
 
 <p align="center">
-Cloud Engineer | DevOps Engineer | Kubernetes | Docker | Terraform | AWS
+Cloud Engineer | DevOps Engineer | AWS | Kubernetes | Docker | Terraform
 </p>
 
 <p align="center">
@@ -12,64 +12,68 @@ Real infrastructure. Real deployments. Security first.
 
 ### About
 
-I build and deploy cloud infrastructure with hands-on experience across AWS, Docker, Kubernetes, Linux, automation, and modern deployment workflows.
+I design, build, automate, and deploy production-ready cloud infrastructure with hands-on expertise across AWS, Kubernetes, Docker, Terraform, Linux, CI/CD, and modern DevOps workflows.
 
-My work is based on real-world implementation, not theory. I design secure environments, deploy applications, manage cloud resources, troubleshoot production issues, and build scalable systems from code to live environments.
+My experience is built through real implementation from architecture planning to live deployment, scaling, monitoring, automation, and troubleshooting.
 
-Focused on cloud engineering, DevOps, automation, and production-ready infrastructure.
+I deliver secure, reliable, and scalable systems that perform in real environments.
 
 ---
 
 ### Core Stack
 
 - AWS (EC2, S3, IAM, VPC, CloudWatch)
-- Docker
 - Kubernetes
+- Docker
+- Terraform
 - Linux (Ubuntu)
 - GitHub Actions (CI/CD)
 - MySQL
+- Node.js / Express.js
 - Nginx
 - AWS CLI
 - Networking
 - Git & GitHub
 - Windows PowerShell
 - HTML, CSS, JavaScript
-- Node.js / Express.js
 
 ---
 
 ### Projects
 
 - AWS S3 Static Website Hosting
-- EC2 Ubuntu Web Server Deployment
-- IAM Security & Access Control
-- VPC Networking Lab
-- CloudWatch Monitoring & Alerts
-- AWS CLI Automation Project
+- EC2 Production Web Server Deployment
+- IAM Security & Access Control Implementation
+- VPC Network Architecture Lab
+- CloudWatch Monitoring & Alerting System
+- AWS CLI Automation Workflows
 - Dockerized Cloud Wallet Application
 - Kubernetes Cloud Wallet Deployment
+- CI/CD Deployment Pipelines
+- Terraform Infrastructure Provisioning
 
 ---
 
 ### Current Focus
 
-- CI/CD pipelines and deployment automation
-- Terraform & Infrastructure as Code
-- Kubernetes production workloads
-- Cloud security hardening
-- Scalable backend systems
-- High-availability cloud architecture
+- Multi-tier cloud architecture
+- Infrastructure as Code at scale
+- Kubernetes production systems
+- Advanced automation pipelines
+- Cloud security engineering
+- High-availability deployments
 
 ---
 
 ### Strengths
 
-- Real hands-on cloud deployments
-- Fast troubleshooting under pressure
-- Infrastructure setup from scratch
-- Secure access management
+- Production-ready cloud deployments
+- Fast issue resolution and troubleshooting
+- Infrastructure from zero to live production
+- Secure access and identity design
 - Containerized application delivery
-- Continuous learning with execution
+- Scalable systems engineering
+- Automation-first mindset
 
 ---
 
